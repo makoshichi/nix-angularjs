@@ -1,2 +1,2 @@
 # nix-angularjs
-Front-end para consumindo nix-api
+Front-end para consumir nix-api
